@@ -13,6 +13,8 @@ git clone https://github.com/HBMS-0em/pushit
 >file
 <down>
 <off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+>file
 mkfs ext4 dev/sda3. 2c
 mkfs ext4 dev/sda3. 2d
 >file
