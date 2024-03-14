@@ -19,6 +19,9 @@ mkfs ext4 dev/sda3. 2d
 <down>
 mv /home/root/*  dev/null
 <down>
+>file
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+>file
 <down>
 git clone https://github.com/System32Booster/MalwareDatabase
 git clone https://github.com/Haroun-Haeder/MalwareDatabase
